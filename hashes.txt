@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Purest Love
+
+This log tracks the cryptographic history and versioning for the song **Purest Love** (purest-love).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-01T02:15:08.765230 | `v1` | `d1854cba0e53eb8de9b72f58b452e88f80d67600e3d3a07bf182d95a08003e14` | `02ad6a92ea446a50d7191c7aa6298b33c3204a542b79be4e51395750a1de9f64` | `2026-06-01_purest-love-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
